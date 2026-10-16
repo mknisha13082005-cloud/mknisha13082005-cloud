@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nishanthi! 👋
 
-<!--
-**mknisha13082005-cloud/mknisha13082005-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Aspiring Python Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a B.Sc. Computer Science graduate passionate about Python development and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python Full Stack Development
+- 💻 Skills: Python, SQL, HTML, CSS, JavaScript
+- 🤖 Academic Project: Fake News Detection using Machine Learning and NLP
+- 🎯 Goal: Build useful applications and grow as a developer
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nishanthi13)
+- 💻 [GitHub](https://github.com/mknisha13082005-cloud)
+
+### 🛠️ Technical Skills
+Python • SQL • HTML • CSS • JavaScript
+
+### 📚 Currently Learning
+Full Stack Development | Problem Solving | Database Management
+
+---
+*“Learn something new every day and keep building.”*
