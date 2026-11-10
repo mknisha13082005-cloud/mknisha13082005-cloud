@@ -1,6 +1,6 @@
 # Hi, I'm Nishanthi! 👋
 
-### 🐍 Aspiring Python Full Stack Developer
+### 🐍 Python Full Stack Developer
 
 I'm a B.Sc. Computer Science graduate passionate about Python development and web technologies.
 
